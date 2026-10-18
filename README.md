@@ -1,21 +1,64 @@
-<<<<<<< HEAD
-# React + Vite
+# ⚔️ 3D Knight
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A 3D Knight scene built using **React, Three.js, React Three Fiber, and React Three Drei**.
 
-Currently, two official plugins are available:
+## 🚧 Project Status
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Work in Progress** — This project is currently under development. I am working on improving the 3D environment, knight movement, camera controls, and overall experience. More features and improvements will be added as development continues.
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- Three.js
+- React Three Fiber
+- React Three Drei
+- JavaScript
 
-## Expanding the Oxlint configuration
+## ✨ Current Work
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
-=======
-# 3d-Knight
-A 3D Knight scene built with React Three Fiber and Three.js.
->>>>>>> 14ccb92eb0f12d543923bb1eba8c2737f6a81b90
+- Integrating a 3D Knight model
+- Creating a 3D ground environment
+- Implementing keyboard-based movement
+- Improving the scene and controls
+
+*Features are still being developed and may change as the project progresses.*
+
+## 🚀 Run Locally
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/bunnydiwakar18-commits/3d-Knight.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd 3d-Knight
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL shown in your terminal.
+
+## 📌 Future Improvements
+
+- Improve knight movement and controls
+- Add camera-follow functionality
+- Enhance lighting and the 3D environment
+- Add more interactive features
+
+---
+
+**Note:** This project is actively being developed. The final version will be updated as new features are completed.
